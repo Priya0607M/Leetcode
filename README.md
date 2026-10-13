@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Priya0607M/Leetcode/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Priya0607M/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/Priya0607M/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [3870-count-commas-in-range](https://github.com/Priya0607M/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Hash Table
 |  |
 | ------- |
