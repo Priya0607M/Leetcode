@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Priya0607M/Leetcode/tree/master/0605-can-place-flowers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priya0607M/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Priya0607M/Leetcode/tree/master/0860-lemonade-change) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya0607M/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Priya0607M/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Priya0607M/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Priya0607M/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -69,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Priya0607M/Leetcode/tree/master/0409-longest-palindrome) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya0607M/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya0607M/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya0607M/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya0607M/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
