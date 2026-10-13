@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Priya0607M/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Priya0607M/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priya0607M/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Priya0607M/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Priya0607M/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Priya0607M/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Priya0607M/Leetcode/tree/master/0268-missing-number) |
 | [1763-longest-nice-substring](https://github.com/Priya0607M/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
