@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Priya0607M/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Priya0607M/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Priya0607M/Leetcode/tree/master/0344-reverse-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Priya0607M/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Priya0607M/Leetcode/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Priya0607M/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Priya0607M/Leetcode/tree/master/0709-to-lower-case) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priya0607M/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Priya0607M/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Priya0607M/Leetcode/tree/master/0409-longest-palindrome) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya0607M/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Priya0607M/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya0607M/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Priya0607M/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Priya0607M/Leetcode/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Priya0607M/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
