@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Priya0607M/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priya0607M/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0746-min-cost-climbing-stairs](https://github.com/Priya0607M/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Priya0607M/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priya0607M/Leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Priya0607M/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
