@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priya0607M/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Priya0607M/Leetcode/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Priya0607M/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Priya0607M/Leetcode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Priya0607M/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Priya0607M/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Priya0607M/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Priya0607M/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Priya0607M/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/Priya0607M/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Priya0607M/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Priya0607M/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1382-balance-a-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
