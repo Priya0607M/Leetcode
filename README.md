@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Priya0607M/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priya0607M/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Priya0607M/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Priya0607M/Leetcode/tree/master/0414-third-maximum-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Priya0607M/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priya0607M/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Priya0607M/Leetcode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Priya0607M/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Priya0607M/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Priya0607M/Leetcode/tree/master/1323-maximum-69-number) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Priya0607M/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Priya0607M/Leetcode/tree/master/0409-longest-palindrome) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Priya0607M/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Priya0607M/Leetcode/tree/master/0414-third-maximum-number) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/Priya0607M/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1382-balance-a-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -167,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Priya0607M/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
