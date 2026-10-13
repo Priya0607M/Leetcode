@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Priya0607M/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Priya0607M/Leetcode/tree/master/0860-lemonade-change) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya0607M/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/Priya0607M/Leetcode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Priya0607M/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Priya0607M/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Priya0607M/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Priya0607M/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/Priya0607M/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya0607M/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0912-sort-an-array](https://github.com/Priya0607M/Leetcode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Priya0607M/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Priya0607M/Leetcode/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/Priya0607M/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -182,10 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Priya0607M/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Priya0607M/Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -212,4 +217,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Priya0607M/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priya0607M/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priya0607M/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priya0607M/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
