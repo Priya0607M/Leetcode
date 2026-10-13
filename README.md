@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Priya0607M/Leetcode/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Priya0607M/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Priya0607M/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/Priya0607M/Leetcode/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Priya0607M/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/Priya0607M/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Priya0607M/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Priya0607M/Leetcode/tree/master/0455-assign-cookies) |
+| [1323-maximum-69-number](https://github.com/Priya0607M/Leetcode/tree/master/1323-maximum-69-number) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Priya0607M/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 ## Prefix Sum
 |  |
