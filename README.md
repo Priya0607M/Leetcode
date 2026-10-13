@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Priya0607M/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Priya0607M/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Priya0607M/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Priya0607M/Leetcode/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priya0607M/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Priya0607M/Leetcode/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Priya0607M/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Priya0607M/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Priya0607M/Leetcode/tree/master/0605-can-place-flowers) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Priya0607M/Leetcode/tree/master/0409-longest-palindrome) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Priya0607M/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Priya0607M/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Priya0607M/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Priya0607M/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Priya0607M/Leetcode/tree/master/0455-assign-cookies) |
 ## Counting
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/Priya0607M/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1382-balance-a-binary-search-tree](https://github.com/Priya0607M/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
